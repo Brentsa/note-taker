@@ -1,1 +1,29 @@
-[{"title":"Test Title","text":"Test text"}]
+{
+    "notes": [
+        {
+            "id": 1,
+            "title":"Test Title",
+            "text":"Test text"
+        },
+        {
+            "id": 2,
+            "title":"Super Note",
+            "text":"Test text"
+        },
+        {
+            "id": 3,
+            "title":"Wild Note",
+            "text":"Test text"
+        },
+        {
+            "id": 4,
+            "title":"Testing Day",
+            "text":"Test text"
+        },
+        {
+            "id": 5,
+            "title":"Let's Write",
+            "text":"Test text"
+        }   
+    ]
+}
