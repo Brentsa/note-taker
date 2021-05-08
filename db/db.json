@@ -1,30 +1,39 @@
 {
-    "notes": [
-        {
-            "title":"Test Title",
-            "text":"Test text",
-            "id": 0
-        },
-        {
-            
-            "title":"Super Note",
-            "text":"Test text",
-            "id": 1
-        },
-        {
-            "title":"Wild Note",
-            "text":"Test text",
-            "id": 2
-        },
-        {
-            "title":"Testing Day",
-            "text":"Test text",
-            "id": 3
-        },
-        {
-            "title":"Let's Write",
-            "text":"Test text",
-            "id": 4
-        }   
-    ]
+  "notes": [
+    {
+      "title": "Test Title",
+      "text": "Test text",
+      "id": 0
+    },
+    {
+      "title": "Super Note",
+      "text": "Test text",
+      "id": 1
+    },
+    {
+      "title": "Wild Note",
+      "text": "Test text",
+      "id": 2
+    },
+    {
+      "title": "Testing Day",
+      "text": "Test text",
+      "id": 3
+    },
+    {
+      "title": "Let's Write",
+      "text": "Test text",
+      "id": 4
+    },
+    {
+      "title": "A Great New Title",
+      "text": "Everything you could dream of.",
+      "id": 5
+    },
+    {
+      "title": "Hello There",
+      "text": "More stories for all.",
+      "id": 6
+    }
+  ]
 }
