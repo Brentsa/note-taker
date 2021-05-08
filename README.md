@@ -13,7 +13,16 @@ Note Taker is an application that allows you to view, write, and save notes.
 * [Credits](#Credits)
 
 ## Usage
-website url: https://note-taker-123456789.herokuapp.com <br><br>
+
+Click on a note title in the left column to show the saved note.
+Enter a new note by clicking the pencil icon in the top right corner.
+Once the title and text content have been entered, you can save the note  by clicking the save icon in the top right.
+To delete a note, press the red garbage button in the left hand column.
+<br><br>
+HAPPY NOTE TAKING!
+<br><br>
+website url: https://note-taker-123456789.herokuapp.com 
+<br><br>
 ![Website-Screenshot](./assets/images/notetaker.png)
 
 ## License
