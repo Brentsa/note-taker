@@ -1,19 +1,9 @@
 {
   "notes": [
     {
-      "title": "A Good Note",
-      "text": "Starting over.",
+      "title": "Welcome to Note Taker",
+      "text": "Click on a note title in the left column to show the saved note.\nEnter a new note by clicking the pencil icon in the top right corner.\nOnce the title and text content have been entered, you can save the note  by clicking the save icon in the top right.\nTo delete a note, press the red garbage button in the left hand column.\n\nHAPPY NOTE TAKING!",
       "id": 1
-    },
-    {
-      "title": "A Great New Title",
-      "text": "Text for my note.",
-      "id": 2
-    },
-    {
-      "title": "Great Another Note",
-      "text": "Start now!",
-      "id": 3
     }
   ]
 }
